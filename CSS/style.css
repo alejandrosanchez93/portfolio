@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: #212529;
+}
+
+.firstHeader {
+    color: ghostwhite;
+}
+
+p {
+    color: ghostwhite;
+}
+
+label {
+    color: ghostwhite;
+}
+
+.card {
+    float: left;
+    margin: 30px;
+}
