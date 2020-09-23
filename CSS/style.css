@@ -22,3 +22,11 @@ label {
     float: left;
     margin: 30px;
 }
+
+.aboutMe {
+    text-indent: 15px;
+}
+
+.contactReference {
+    background-color: rgba(0, 0, 0, 0.857);
+}
