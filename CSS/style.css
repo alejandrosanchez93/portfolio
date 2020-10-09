@@ -30,3 +30,11 @@ label {
 .contactReference {
     background-color: rgba(0, 0, 0, 0.857);
 }
+
+footer {
+    text-align: center;
+}
+
+#foodie-description {
+    color: black;
+}
