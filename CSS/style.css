@@ -28,7 +28,7 @@ label {
 }
 
 .contactReference {
-    background-color: rgba(0, 0, 0, 0.857);
+    background-color: rgba(0, 0, 0, 0.507);
 }
 
 footer {
@@ -37,4 +37,12 @@ footer {
 
 #foodie-description {
     color: black;
+}
+
+.links {
+    color: whitesmoke;
+}
+
+.linksBG {
+    background-color: #212529bf;
 }
